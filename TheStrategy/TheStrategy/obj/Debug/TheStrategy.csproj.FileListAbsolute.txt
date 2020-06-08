@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheStrategy\TheStrategy\bin\Debug\TheStrategy.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\TheStrategy\TheStrategy\bin\Debug\TheStrategy.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheStrategy\TheStrategy\bin\Debug\TheStrategy.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\TheStrategy\TheStrategy\obj\Debug\TheStrategy.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\TheStrategy\TheStrategy\obj\Debug\TheStrategy.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheStrategy\TheStrategy\obj\Debug\TheStrategy.pdb

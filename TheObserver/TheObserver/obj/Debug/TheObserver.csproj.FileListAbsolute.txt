@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheObserver\TheObserver\bin\Debug\TheObserver.exe.config
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheObserver\TheObserver\bin\Debug\TheObserver.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheObserver\TheObserver\bin\Debug\TheObserver.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheObserver\TheObserver\obj\Debug\TheObserver.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheObserver\TheObserver\obj\Debug\TheObserver.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheObserver\TheObserver\obj\Debug\TheObserver.pdb

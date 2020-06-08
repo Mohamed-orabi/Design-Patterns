@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheComposite\TheComposite\bin\Debug\TheComposite.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\TheComposite\TheComposite\bin\Debug\TheComposite.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheComposite\TheComposite\bin\Debug\TheComposite.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\TheComposite\TheComposite\obj\Debug\TheComposite.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\TheComposite\TheComposite\obj\Debug\TheComposite.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheComposite\TheComposite\obj\Debug\TheComposite.pdb

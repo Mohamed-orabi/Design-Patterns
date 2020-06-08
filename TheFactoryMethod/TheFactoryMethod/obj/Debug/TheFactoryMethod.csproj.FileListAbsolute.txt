@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheFactoryMethod\TheFactoryMethod\bin\Debug\TheFactoryMethod.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\TheFactoryMethod\TheFactoryMethod\obj\Debug\TheFactoryMethod.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\TheFactoryMethod\TheFactoryMethod\bin\Debug\TheFactoryMethod.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheFactoryMethod\TheFactoryMethod\bin\Debug\TheFactoryMethod.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\TheFactoryMethod\TheFactoryMethod\obj\Debug\TheFactoryMethod.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheFactoryMethod\TheFactoryMethod\obj\Debug\TheFactoryMethod.pdb

@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheVisitor\TheVisitor\bin\Debug\TheVisitor.exe.config
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheVisitor\TheVisitor\bin\Debug\TheVisitor.exe
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheVisitor\TheVisitor\bin\Debug\TheVisitor.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheVisitor\TheVisitor\obj\Debug\TheVisitor.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheVisitor\TheVisitor\obj\Debug\TheVisitor.exe
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheVisitor\TheVisitor\obj\Debug\TheVisitor.pdb

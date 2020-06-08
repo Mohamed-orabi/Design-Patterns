@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\Simplefactory\Simplefactory\bin\Debug\Simplefactory.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\Simplefactory\Simplefactory\bin\Debug\Simplefactory.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Simplefactory\Simplefactory\bin\Debug\Simplefactory.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\Simplefactory\Simplefactory\obj\Debug\Simplefactory.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\Simplefactory\Simplefactory\obj\Debug\Simplefactory.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Simplefactory\Simplefactory\obj\Debug\Simplefactory.pdb

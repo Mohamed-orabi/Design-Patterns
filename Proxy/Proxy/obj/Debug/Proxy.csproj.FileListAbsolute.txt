@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Mohamed\documents\visual studio 2015\Projects\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2015\Projects\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\Proxy\Proxy\obj\Debug\Proxy.pdb

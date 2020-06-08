@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheIterator\TheIterator\bin\Debug\TheIterator.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\TheIterator\TheIterator\bin\Debug\TheIterator.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheIterator\TheIterator\bin\Debug\TheIterator.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\TheIterator\TheIterator\obj\Debug\TheIterator.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\TheIterator\TheIterator\obj\Debug\TheIterator.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheIterator\TheIterator\obj\Debug\TheIterator.pdb

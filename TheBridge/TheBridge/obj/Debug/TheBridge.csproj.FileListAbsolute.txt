@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheBridge\TheBridge\bin\Debug\TheBridge.exe.config
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheBridge\TheBridge\bin\Debug\TheBridge.exe
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheBridge\TheBridge\bin\Debug\TheBridge.pdb
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheBridge\TheBridge\obj\Debug\TheBridge.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheBridge\TheBridge\obj\Debug\TheBridge.exe
+C:\Users\Mohamed\Documents\Visual Studio 2015\Projects\TheBridge\TheBridge\obj\Debug\TheBridge.pdb

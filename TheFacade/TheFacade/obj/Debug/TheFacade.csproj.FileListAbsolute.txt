@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheFacade\TheFacade\bin\Debug\TheFacade.exe.config
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheFacade\TheFacade\bin\Debug\TheFacade.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheFacade\TheFacade\bin\Debug\TheFacade.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheFacade\TheFacade\obj\Debug\TheFacade.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheFacade\TheFacade\obj\Debug\TheFacade.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheFacade\TheFacade\obj\Debug\TheFacade.pdb

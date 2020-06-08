@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplate2\TheTemplate2\bin\Debug\TheTemplate2.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplate2\TheTemplate2\bin\Debug\TheTemplate2.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplate2\TheTemplate2\bin\Debug\TheTemplate2.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplate2\TheTemplate2\obj\Debug\TheTemplate2.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplate2\TheTemplate2\obj\Debug\TheTemplate2.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplate2\TheTemplate2\obj\Debug\TheTemplate2.pdb

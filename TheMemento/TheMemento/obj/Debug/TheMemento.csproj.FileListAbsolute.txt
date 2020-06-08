@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheMemento\TheMemento\bin\Debug\TheMemento.exe.config
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheMemento\TheMemento\bin\Debug\TheMemento.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheMemento\TheMemento\bin\Debug\TheMemento.pdb
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheMemento\TheMemento\obj\Debug\TheMemento.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheMemento\TheMemento\obj\Debug\TheMemento.exe
+C:\Users\Mohamed\documents\visual studio 2015\Projects\TheMemento\TheMemento\obj\Debug\TheMemento.pdb

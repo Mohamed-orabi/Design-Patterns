@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\BuilderFluentInterface\BuilderFluentInterface\bin\Debug\BuilderFluentInterface.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\BuilderFluentInterface\BuilderFluentInterface\bin\Debug\BuilderFluentInterface.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\BuilderFluentInterface\BuilderFluentInterface\bin\Debug\BuilderFluentInterface.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\BuilderFluentInterface\BuilderFluentInterface\obj\Debug\BuilderFluentInterface.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\BuilderFluentInterface\BuilderFluentInterface\obj\Debug\BuilderFluentInterface.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\BuilderFluentInterface\BuilderFluentInterface\obj\Debug\BuilderFluentInterface.pdb

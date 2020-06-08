@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplateMethod\TheTemplateMethod\bin\Debug\TheTemplateMethod.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplateMethod\TheTemplateMethod\bin\Debug\TheTemplateMethod.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplateMethod\TheTemplateMethod\bin\Debug\TheTemplateMethod.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplateMethod\TheTemplateMethod\obj\Debug\TheTemplateMethod.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplateMethod\TheTemplateMethod\obj\Debug\TheTemplateMethod.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheTemplateMethod\TheTemplateMethod\obj\Debug\TheTemplateMethod.pdb

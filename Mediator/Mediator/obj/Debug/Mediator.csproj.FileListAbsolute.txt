@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\Mediator\Mediator\bin\Debug\Mediator.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\Mediator\Mediator\bin\Debug\Mediator.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Mediator\Mediator\bin\Debug\Mediator.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\Mediator\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\Mediator\Mediator\obj\Debug\Mediator.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Mediator\Mediator\obj\Debug\Mediator.pdb

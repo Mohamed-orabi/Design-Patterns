@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\Abstractfactory\Abstractfactory\bin\Debug\Abstractfactory.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\Abstractfactory\Abstractfactory\bin\Debug\Abstractfactory.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Abstractfactory\Abstractfactory\bin\Debug\Abstractfactory.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\Abstractfactory\Abstractfactory\obj\Debug\Abstractfactory.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\Abstractfactory\Abstractfactory\obj\Debug\Abstractfactory.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\Abstractfactory\Abstractfactory\obj\Debug\Abstractfactory.pdb

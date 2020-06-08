@@ -1,0 +1,6 @@
+c:\users\mohamed\documents\visual studio 2015\Projects\TheAdapter\TheAdapter\bin\Debug\TheAdapter.exe.config
+c:\users\mohamed\documents\visual studio 2015\Projects\TheAdapter\TheAdapter\bin\Debug\TheAdapter.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheAdapter\TheAdapter\bin\Debug\TheAdapter.pdb
+c:\users\mohamed\documents\visual studio 2015\Projects\TheAdapter\TheAdapter\obj\Debug\TheAdapter.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2015\Projects\TheAdapter\TheAdapter\obj\Debug\TheAdapter.exe
+c:\users\mohamed\documents\visual studio 2015\Projects\TheAdapter\TheAdapter\obj\Debug\TheAdapter.pdb
